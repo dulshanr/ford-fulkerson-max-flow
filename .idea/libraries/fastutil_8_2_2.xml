@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fastutil-8.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jgrapht-1.3.0/jgrapht-1.3.0/lib/fastutil-8.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
